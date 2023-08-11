@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.exe
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.deps.json
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.dll
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.pdb
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.dll
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\refint\FirstConsoleApp.dll
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.pdb
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\David\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\net6.0\ref\FirstConsoleApp.dll
